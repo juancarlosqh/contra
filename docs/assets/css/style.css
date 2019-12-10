@@ -1,0 +1,86 @@
+.text-principal {
+  color: #357fe8 !important;
+}
+
+.text-version {
+  color: #357fe8 !important;
+  font-style: italic;
+  font-size: 12px;
+}
+
+.map-container {
+  width: 100%;
+  /*margin-top: 100px;
+  min-height: 100vh;*/
+}
+
+.footer {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+  background: #f0f1f3;
+  padding-top: 1rem !important;
+}
+.card-header {
+  /*background: #475d7e;
+  color: #fff;*/
+  background: #fff;
+  color: #1e3d6b;
+}
+.card-body {
+  padding: 0 !important;
+}
+.aduana-logo {
+  height: 80px;
+}
+.conteinerx {
+  width: 100% !important;
+}
+
+.menu-principal {
+  background: #1e3d6b;
+}
+.iconm {
+  font-size: 32px;
+}
+.nav-link {
+  padding-left: 2rem !important;
+}
+.dropdown-menu {
+  background: #1e3d6b;
+}
+.dropdown-item {
+  color: #fff !important;
+}
+.navbar {
+  padding: 0;
+}
+
+.userName {
+  color: #fff;
+  font-size: 10px;
+  margin-bottom: 0 !important;
+}
+
+.userPerfil {
+  color: #86878a;
+  font-size: 12px;
+  margin-bottom: 0 !important;
+}
+
+.dropdown-item:hover {
+  background: #81a6db !important;
+}
+
+.dropdown-item.active {
+  background: #357fe8 !important;
+}
+
+.form {
+  margin: 2rem !important;
+}
+.card-form {
+  padding: 1rem !important;
+}
+.container {
+  min-height: 78vh;
+}
